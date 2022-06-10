@@ -1,0 +1,11 @@
+name: Paints
+version: '${project.version}'
+main: space.andretex.paints.Main
+api-version: 1.16
+prefix: [ PAINT ]
+load: STARTUP
+authors: [ Andretex, AndretexDev ]
+description: Paint plugin
+commands:
+  paint:
+    usage: /paint

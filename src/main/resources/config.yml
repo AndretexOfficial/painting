@@ -1,0 +1,18 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       Thanks                         | #
+# +------------------------------------------------------+ #
+############################################################
+#A big thank you to the AndretexDev developers and to a good
+#friend of mine who taught me how to programme in Java
+#you will gradually find more complete and beautiful plugins
+#on my spigot page. This is my first public plugin
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      commands                        | #
+# +------------------------------------------------------+ #
+############################################################
+#/paint          Enable/Disable a paint mode       max distance is 50 block
+#/help           See all commands
+#/paintr         Reload config
